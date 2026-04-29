@@ -1,4 +1,9 @@
-# AED
-Luciana Chaile
+# Algoritmos y Estructuras de Datos
+
 K1053
-Grupo 3
+
+2026
+
+211.495-1
+Chaile
+Luciana
